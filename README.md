@@ -30,3 +30,4 @@ Finally, interpreting the solution is critical for making actionable business de
 In conclusion, this task demonstrates the practical application of optimization techniques in business decision-making. It combines mathematical modeling, Python programming, and business insights to provide a structured approach for solving resource allocation problems. By implementing the product mix optimization using PuLP, users not only learn the technical process of linear programming but also develop a framework for analyzing and improving real-world operational efficiency. The deliverable—a Python notebook—serves as a complete demonstration of problem setup, solution, and insights, making it a valuable tool for both learning and practical business application.
 
 *OUTPUT* :
+<img width="899" height="240" alt="Image" src="https://github.com/user-attachments/assets/d813ddcd-08ab-4f64-826d-052277d59705" />
